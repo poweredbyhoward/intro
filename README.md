@@ -1,9 +1,3 @@
----
-layout: default
-title: README
-description: description for README
----
-
 # intro
 
 ## links
