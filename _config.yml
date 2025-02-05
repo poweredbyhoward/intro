@@ -1,2 +1,3 @@
-permalink: ./README.md
+plugins:
+  - jekyll-default-layout
 theme: jekyll-theme-leap-day
