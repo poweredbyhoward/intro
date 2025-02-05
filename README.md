@@ -1,8 +1,3 @@
----
-title: home
-description: computer programming @ george brown
----
-
 # README
 
 ***
