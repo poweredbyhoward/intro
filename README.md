@@ -1,4 +1,11 @@
-# intro
+---
+title: home
+description: computer programming @ george brown
+---
+
+# README
+
+***
 
 ## links
 - [D2L](https://learn.georgebrown.ca)
