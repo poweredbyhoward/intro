@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: default
 title: "README"
-description: "default page"
----
+description: "default page :P"
+--- -->
 
 # intro
 
