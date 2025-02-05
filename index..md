@@ -1,4 +1,9 @@
-# README
+---
+title: home
+description: computer programming @ george brown
+---
+
+# T186
 
 ***
 
