@@ -1,8 +1,7 @@
-<!-- ---
-layout: default
-title: "README"
-description: "default page :P"
---- -->
+---
+title: README
+description: description for README
+---
 
 # intro
 
